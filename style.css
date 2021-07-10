@@ -8,7 +8,7 @@ h1 {
 .red-colour{
     color: rgb(255, 0, 51);
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 80px;
 }
