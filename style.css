@@ -10,15 +10,18 @@ h1 {
 }
 section{
     display: flex;
+    margin-bottom: 80px;
 }
 .half-width{
     width: 50%;
     padding-left: 10%;
+    padding-top: 5%;
 }
 .half-width img{
     width: 80%;
     padding-top: 10%;
 }
+
 .link-button{
     text-decoration: none;
     background-image: linear-gradient( tomato, orange);
@@ -30,4 +33,18 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.half-width2{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.half-width2 img{
+    width: 80%;
+    padding-top: 10%;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
